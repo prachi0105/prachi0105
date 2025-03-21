@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Prachi Gupta:
 I am Prachi Gupta. A Java Developer, aspiring to become a Software Engineer. I am a 2nd year student, currently pursuing my BTech CSE from Shriram Institute of Technology. <br><br>Set:<br><br>Programming: Java , C, C++.<br><br>Frontend: HTML, CSS, JavaScript, Bootstrap.<br><br>Framework:canva.<br><br>Development to use my skills and experience for the best.<br>
 
 
