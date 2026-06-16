@@ -14,7 +14,6 @@ My primary focus is on the MERN Stack (MongoDB, Express.js, React.js, and Node.j
 🔹 <b>Programming Languages:</b> JavaScript, Python, C/C++<br>
 🔹<b>Tools & Technologies:</b> Git, GitHub, VS Code, REST APIs, Postman <br>
 <br>
-<br>
 <b>What I'm Currently Learning</b>
 <br>
 🔹 Advanced Backend Development<br>
