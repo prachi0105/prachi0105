@@ -19,11 +19,11 @@ My primary focus is on the MERN Stack (MongoDB, Express.js, React.js, and Node.j
 <br>
 <br>
 
-🔹 Advanced Backend Development
-🔹 System Design Fundamentals
-🔹 Software Engineering Best Practices
-🔹 AI Integration in Web Applications
-🔹 Cloud Technologies and Deployment
+🔹 Advanced Backend Development<br>
+🔹 System Design Fundamentals<br>
+🔹 Software Engineering Best Practices<br>
+🔹 AI Integration in Web Applications<br>
+🔹 Cloud Technologies and Deployment<br>
 <br>
 <br>
 
