@@ -1,5 +1,44 @@
-# 💫 Prachi Gupta:
-I am Prachi Gupta. A Java Developer, aspiring to become a Software Engineer. I am a 2nd year student, currently pursuing my BTech CSE from Shriram Institute of Technology. <br><br>Set:<br><br>Programming: Java , C, C++.<br><br>Frontend: HTML, CSS, JavaScript, Bootstrap.<br><br>Framework:canva.<br><br>Development to use my skills and experience for the best.<br>
+# 💫 Prachi Gupta
+
+<b> I am Prachi Gupta </b>, a 3rd-year B.Tech Computer Science Engineering (CSE) student at Shriram Institute of Technology and an aspiring Full-Stack Developer with a strong interest in building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world solutions through technology and continuously improving my skills in software development.
+<br>
+My primary focus is on the MERN Stack (MongoDB, Express.js, React.js, and Node.js), where I have developed projects that strengthen my understanding of frontend development, backend architecture, database management, and API integration. Alongside development, I actively practice Data Structures and Algorithms to enhance my problem-solving abilities and coding efficiency.
+<br>
+Technical Skills
+<br>
+✔ Frontend Development: HTML, CSS, JavaScript, React.js, Tailwind CSS
+✔ Backend Development: Node.js, Express.js
+✔ Database Management: MongoDB
+✔ Programming Languages: JavaScript, Python, C/C++
+✔ Tools & Technologies: Git, GitHub, VS Code, REST APIs, Postman
+<br>
+What I'm Currently Learning
+<br>
+
+🔹 Advanced Backend Development
+🔹 System Design Fundamentals
+🔹 Software Engineering Best Practices
+🔹 AI Integration in Web Applications
+🔹 Cloud Technologies and Deployment
+<br>
+
+What Drives Me
+<br>
+
+I believe technology has the power to solve meaningful problems and improve people's lives. Whether it's developing a learning platform, creating productivity tools, or exploring AI-powered applications, I enjoy the process of learning, building, and continuously improving.
+<br>
+
+Career Goal
+<br>
+
+My goal is to become a skilled Software Engineer who can contribute to innovative products, work on challenging projects, and create solutions that make a positive impact. I am always open to learning new technologies, collaborating with talented individuals, and exploring opportunities that help me grow professionally.
+.
+<br>
+
+ <b>"Consistency in learning and building is the key to becoming a better developer every day."</b>
+
+
+
 
 
 # 💻 Tech Stack:
