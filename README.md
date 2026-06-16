@@ -8,11 +8,11 @@ My primary focus is on the MERN Stack (MongoDB, Express.js, React.js, and Node.j
 <br>
 <b> Technical Skills </b>
 <br>
-✔ <b> Frontend Development:</b> HTML, CSS, JavaScript, React.js, Tailwind CSS <br>
-✔ <b>Backend Development:</b> Node.js, Express.js<br>
-✔ <b>Database Management:</b> MongoDB<br>
-✔ <b>Programming Languages:</b> JavaScript, Python, C/C++<br>
-✔ <b>Tools & Technologies:</b> Git, GitHub, VS Code, REST APIs, Postman <br>
+🔹 <b> Frontend Development:</b> HTML, CSS, JavaScript, React.js, Tailwind CSS <br>
+🔹 <b>Backend Development:</b> Node.js, Express.js<br>
+🔹<b>Database Management:</b> MongoDB<br>
+🔹 <b>Programming Languages:</b> JavaScript, Python, C/C++<br>
+🔹<b>Tools & Technologies:</b> Git, GitHub, VS Code, REST APIs, Postman <br>
 <br>
 <br>
 <b>What I'm Currently Learning</b>
@@ -23,13 +23,10 @@ My primary focus is on the MERN Stack (MongoDB, Express.js, React.js, and Node.j
 🔹 AI Integration in Web Applications<br>
 🔹 Cloud Technologies and Deployment<br>
 <br>
-<br>
-
 <b>What Drives Me</b>
 <br>
 I believe technology has the power to solve meaningful problems and improve people's lives. Whether it's developing a learning platform, creating productivity tools, or exploring AI-powered applications, I enjoy the process of learning, building, and continuously improving.
-<br> <br>
-
+<br> 
 <b>Career Goal</b>
 <br>
 My goal is to become a skilled Software Engineer who can contribute to innovative products, work on challenging projects, and create solutions that make a positive impact. I am always open to learning new technologies, collaborating with talented individuals, and exploring opportunities that help me grow professionally.
