@@ -1,6 +1,6 @@
 # 💫 Prachi Gupta
 
-<b> I am Prachi Gupta </b>, a 3rd-year B.Tech Computer Science Engineering (CSE) student at Shri Ram Institute of Technology and an aspiring Full-Stack Developer with a strong interest in building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world solutions through technology and continuously improving my skills in software development.
+<b> I am Prachi Gupta , a 3rd-year B.Tech Computer Science Engineering (CSE) student at Shri Ram Institute of Technology </b> and an aspiring Full-Stack Developer with a strong interest in building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world solutions through technology and continuously improving my skills in software development.
 <br>
 <br>
 My primary focus is on the MERN Stack (MongoDB, Express.js, React.js, and Node.js), where I have developed projects that strengthen my understanding of frontend development, backend architecture, database management, and API integration. Alongside development, I actively practice Data Structures and Algorithms to enhance my problem-solving abilities and coding efficiency.
@@ -17,8 +17,6 @@ My primary focus is on the MERN Stack (MongoDB, Express.js, React.js, and Node.j
 <br>
 <b>What I'm Currently Learning</b>
 <br>
-<br>
-
 🔹 Advanced Backend Development<br>
 🔹 System Design Fundamentals<br>
 🔹 Software Engineering Best Practices<br>
@@ -29,15 +27,14 @@ My primary focus is on the MERN Stack (MongoDB, Express.js, React.js, and Node.j
 
 <b>What Drives Me</b>
 <br>
-<br>
 I believe technology has the power to solve meaningful problems and improve people's lives. Whether it's developing a learning platform, creating productivity tools, or exploring AI-powered applications, I enjoy the process of learning, building, and continuously improving.
-<br>
+<br> <br>
 
 <b>Career Goal</b>
 <br>
-<br>
 My goal is to become a skilled Software Engineer who can contribute to innovative products, work on challenging projects, and create solutions that make a positive impact. I am always open to learning new technologies, collaborating with talented individuals, and exploring opportunities that help me grow professionally.
 .
+<br>
 <br>
 <br>
 
