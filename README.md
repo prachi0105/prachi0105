@@ -8,11 +8,11 @@ My primary focus is on the MERN Stack (MongoDB, Express.js, React.js, and Node.j
 <br>
 <b> Technical Skills </b>
 <br>
-✔ <b> Frontend Development:</b> HTML, CSS, JavaScript, React.js, Tailwind CSS
-✔ <b>Backend Development:</b> Node.js, Express.js
-✔ <b>Database Management:</b> MongoDB
-✔ <b>Programming Languages:</b> JavaScript, Python, C/C++
-✔ <b>Tools & Technologies:</b> Git, GitHub, VS Code, REST APIs, Postman
+✔ <b> Frontend Development:</b> HTML, CSS, JavaScript, React.js, Tailwind CSS <br>
+✔ <b>Backend Development:</b> Node.js, Express.js<br>
+✔ <b>Database Management:</b> MongoDB<br>
+✔ <b>Programming Languages:</b> JavaScript, Python, C/C++<br>
+✔ <b>Tools & Technologies:</b> Git, GitHub, VS Code, REST APIs, Postman <br>
 <br>
 <br>
 <b>What I'm Currently Learning</b>
